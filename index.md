@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: We can change the title!
+
+text: testtext
+
 ---
